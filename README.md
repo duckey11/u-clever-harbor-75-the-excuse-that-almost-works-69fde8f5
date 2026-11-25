@@ -17,7 +17,7 @@ Python standard library only, no network access, no secrets.
 
 The line it writes:
 
-> Sorry, window fitter moved me to 9am, won't come back till next month if I miss him.
+> Sorry, window fitter moved me to 9am, he's booked solid till June if I miss him.
 
 ## How to run
 

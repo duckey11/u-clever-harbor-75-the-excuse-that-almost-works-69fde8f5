@@ -9,7 +9,7 @@ network access, no secrets.
 
 import os
 
-ENTRY = "Sorry, window fitter moved me to 9am, won't come back till next month if I miss him."
+ENTRY = "Sorry, window fitter moved me to 9am, he's booked solid till June if I miss him."
 
 
 def main():
